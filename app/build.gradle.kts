@@ -76,4 +76,6 @@ dependencies {
     // Retrofit
     implementation(libs.squareup.retrofit)
     implementation(libs.squareup.retrofit.gson)
+
+    implementation(libs.androidx.compose.material.icons.extended)
 }
